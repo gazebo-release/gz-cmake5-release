@@ -1,5 +1,6 @@
-ignition-cmake (0.6.0-1~bionic) bionic; urgency=medium
+ignition-cmake (2.0.0~gz11-1~bionic) bionic; urgency=medium
 
-  * ignition-cmake 0.6.0-1 release
+  * ignition-cmake 2.0.0~gz11-1 release
 
- -- Steve Peters <scpeters@osrfoundation.org>  Tue, 01 May 2018 17:03:57 -0700
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Mon, 09 Jul 2018 19:20:19 +0200
+
