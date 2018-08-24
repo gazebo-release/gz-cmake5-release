@@ -1,3 +1,9 @@
+ignition-cmake2 (2.0.0~gz11~v2-1~bionic) bionic; urgency=medium
+
+  * ignition-cmake2 2.0.0~gz11~v2-1 release
+
+ -- Steve Peters <scpeters@osrfoundation.org>  Fri, 24 Aug 2018 16:00:51 -0700
+
 ignition-cmake2 (2.0.0~gz11~v1-1~bionic) bionic; urgency=medium
 
   * ignition-cmake2 2.0.0~gz11~v1-1 release
