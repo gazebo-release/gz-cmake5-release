@@ -1,3 +1,9 @@
+ignition-cmake2 (2.0.0~gz11~v3-1~bionic) bionic; urgency=medium
+
+  * ignition-cmake2 2.0.0~gz11~v3-1 release
+
+ -- Nate Koenig <nate@osrfoundation.org>  Tue, 11 Sep 2018 10:03:28 -0700
+
 ignition-cmake2 (2.0.0~gz11~v2-1~bionic) bionic; urgency=medium
 
   * ignition-cmake2 2.0.0~gz11~v2-1 release
