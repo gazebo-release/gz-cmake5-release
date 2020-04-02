@@ -1,3 +1,51 @@
+ignition-cmake2 (2.1.1-1~bionic) bionic; urgency=medium
+
+  * ignition-cmake2 2.1.1-1 release
+
+ -- Nate Koenig <nate@osrfoundation.org>  Wed, 07 Aug 2019 18:32:58 -0800
+
+ignition-cmake2 (2.1.0-1~bionic) bionic; urgency=medium
+
+  * ignition-cmake2 2.1.0-1 release
+
+ -- Steve Peters <scpeters@osrfoundation.org>  Fri, 17 May 2019 17:27:43 -0700
+
+ignition-cmake2 (2.1.0~pre2-1~bionic) bionic; urgency=medium
+
+  * ignition-cmake2 2.1.0~pre2-1 release
+
+ -- Steve Peters <scpeters@osrfoundation.org>  Mon, 13 May 2019 16:16:40 -0700
+
+ignition-cmake2 (2.1.0~pre1-1~bionic) bionic; urgency=medium
+
+  * ignition-cmake2 2.1.0~pre1-1 release
+
+ -- Steve Peters <scpeters@osrfoundation.org>  Tue, 30 Apr 2019 11:31:02 -0700
+
+ignition-cmake2 (2.0.0-1~bionic) bionic; urgency=medium
+
+  * ignition-cmake2 2.0.0-1 release
+
+ -- Nate Koenig <nate@osrfoundation.org>  Wed, 31 Jan 2019 12:26:34 -0800
+
+ignition-cmake2 (2.0.0~pre4-1~bionic) bionic; urgency=medium
+
+  * ignition-cmake2 2.0.0~pre4-1 release
+
+ -- Steve Peters <scpeters@osrfoundation.org>  Thu, 24 Jan 2019 12:20:26 -0800
+
+ignition-cmake2 (2.0.0~pre3-1~bionic) bionic; urgency=medium
+
+  * ignition-cmake2 2.0.0~pre3-1 release
+
+ -- Ian Chen <ichen@osrfoundation.org>  Fri, 04 Jan 2019 14:24:52 -0800
+
+ignition-cmake2 (2.0.0~pre2-1~bionic) bionic; urgency=medium
+
+  * ignition-cmake2 2.0.0~pre2-1 release
+
+ -- Ian Chen <ichen@osrfoundation.org>  Wed, 19 Dec 2018 11:58:24 -0800
+
 ignition-cmake2 (2.0.0~pre1-1~bionic) bionic; urgency=medium
 
   * ignition-cmake2 2.0.0~pre1-1 release
