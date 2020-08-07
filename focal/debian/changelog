@@ -1,0 +1,12 @@
+ignition-cmake2 (2.3.0-1~focal) focal; urgency=medium
+
+  * ignition-cmake2 2.3.0-1 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Fri, 07 Aug 2020 21:48:28 +0200
+
+ignition-cmake2 (2.2.0-1~focal) focal; urgency=medium
+
+  * ignition-cmake2 2.2.0-1 release
+
+ -- Nate Koenig <nate@osrfoundation.org>  Mon, 06 Apr 2020 13:58:43 -0800
+
