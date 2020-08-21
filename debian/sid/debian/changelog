@@ -1,3 +1,9 @@
+ignition-cmake2 (2.4.0-1~sid) sid; urgency=medium
+
+  * ignition-cmake2 2.4.0-1 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Thu, 20 Aug 2020 17:47:57 -0700
+
 ignition-cmake2 (2.3.0-1~sid) sid; urgency=medium
 
   * ignition-cmake2 2.3.0-1 release
