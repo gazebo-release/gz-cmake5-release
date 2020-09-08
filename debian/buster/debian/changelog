@@ -1,3 +1,9 @@
+ignition-cmake2 (2.5.0-1~buster) buster; urgency=medium
+
+  * ignition-cmake2 2.5.0-1 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Tue, 08 Sep 2020 16:18:44 -0700
+
 ignition-cmake2 (2.4.0-1~buster) buster; urgency=medium
 
   * ignition-cmake2 2.4.0-1 release
