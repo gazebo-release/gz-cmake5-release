@@ -1,3 +1,9 @@
+ignition-cmake2 (2.11.0-1~sid) sid; urgency=medium
+
+  * ignition-cmake2 2.11.0-1 release
+
+ -- Michael Carroll <michael@openrobotics.org>  Wed, 23 Feb 2022 20:37:05 -0600
+
 ignition-cmake2 (2.7.0~pre2-1~sid) sid; urgency=medium
 
   * ignition-cmake2 2.7.0~pre2-1 release
