@@ -14,6 +14,8 @@ Package: libignition-cmake3-dev
 Architecture: any
 Section: libdevel
 Depends: cmake, ${misc:Depends}
+Breaks: libignition-cmake-dev (<= 2.10.0-2)
+Replaces: libignition-cmake-dev (<= 2.10.0-2)
 Multi-Arch: same
 Description: Ignition Robotics CMake Library - Development files
  CMake modules to be used by the Ignition projects.
