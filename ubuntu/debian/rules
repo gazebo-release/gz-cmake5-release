@@ -14,4 +14,4 @@ override_dh_auto_install:
 	dh_auto_install
 	# The test suite install artifacts on HOME/ that ended up on the binary.
 	# Remove everything except usr/*
-	find 'debian/libignition-cmake2-dev/' -mindepth 1 -maxdepth 1 ! -name 'usr' -type d -exec rm -rf {} +
+	find 'debian/libignition-cmake3-dev/' -mindepth 1 -maxdepth 1 ! -name 'usr' -type d -exec rm -rf {} +
