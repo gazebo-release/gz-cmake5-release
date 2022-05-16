@@ -1,3 +1,9 @@
+gz-cmake3 (2.999.999-2~buster) buster; urgency=medium
+
+  * Change package source name
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Mon, 16 May 2022 16:58:01 +0200
+
 ignition-cmake3 (2.999.999-1~buster) buster; urgency=medium
 
   * Stub to be removed after first entry
