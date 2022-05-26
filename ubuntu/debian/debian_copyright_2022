@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: gz-cmake
+Upstream-Name: ignition-cmake
 Upstream-Contact: gazebo-list@gazebosim.org
-Source: https://github.org/gazebosim/gz-cmake
+Source: https://bitbucket.org/ignitionrobotics/ign_cmake
 
 Files: *
 Copyright: 2017-2020, Open Source Robotics Foundation

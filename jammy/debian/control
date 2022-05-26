@@ -1,34 +1,26 @@
-Source: gz-cmake3
+Source: ignition-cmake3
 Maintainer: Jose Luis Rivero <jrivero@osrfoundation.org>
 Section: science
 Priority: optional
 Build-Depends: cmake,
                pkg-config,
                debhelper (>= 11)
-Vcs-Browser: https://github.com/gazebosim/gz-cmake
-Vcs-Git: https://github.com/gazebosim/gz-cmake.git
+Vcs-Browser: https://github.com/ignitionrobotics/ign-cmake
+Vcs-Git: https://github.com/ignitionrobotics/ign-cmake.git
 Standards-Version: 4.5.1
-Homepage: http://gazebosim.org/
+Homepage: http://ignitionrobotics.org/
 
-Package: libgz-cmake3-dev
+Package: libignition-cmake3-dev
 Architecture: any
 Section: libdevel
 Depends: cmake, ${misc:Depends}
 Breaks: libignition-cmake-dev (<= 2.10.0-2)
 Replaces: libignition-cmake-dev (<= 2.10.0-2)
 Multi-Arch: same
-Description: Gazebo Robotics CMake Library - Development files
- CMake modules to be used by the Gazebo projects.
+Description: Ignition Robotics CMake Library - Development files
+ CMake modules to be used by the Ignition projects.
  .
- This package is required to build gz projects, as well as to link your
+ This package is required to build ignition projects, as well as to link your
  third party projects against them. It provides modules that are used to find
- dependencies of gz projects and generate cmake targets for consumers of
- gz projects to link against.
-
-Package: libignition-cmake3-dev
-Depends: libgz-cmake3-dev, ${misc:Depends}
-Architecture: all
-Priority: optional
-Section: oldlibs
-Description: transitional package
- This is a transitional package. It can safely be removed.
+ dependencies of ignition projects and generate cmake targets for consumers of
+ ignition projects to link against.
