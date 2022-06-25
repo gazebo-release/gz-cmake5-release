@@ -1,5 +1,5 @@
 #!/bin/sh
-# autopkgtest check: Build and run a program against ign-cmake, to verify that the
+# autopkgtest check: Build and run a program against gz-cmake, to verify that the
 # cmake modules are installed
 # (C) 2012 Jose Luis Rivero
 # Author: Jose Luis Rivero <jrivero@osrfoundation.org>
@@ -17,20 +17,20 @@ cmake_minimum_required(VERSION 3.5)
 project(test VERSION 1.0.0)
 
 #============================================================================
-# Find ignition-cmake3
+# Find gz-cmake3
 #============================================================================
-# If you get an error at this line, you need to install ignition-cmake3
-find_package(ignition-cmake3 REQUIRED)
+# If you get an error at this line, you need to install gz-cmake3
+find_package(gz-cmake3 REQUIRED)
 
 #============================================================================
 # Set up the project
 #============================================================================
-ign_configure_project()
+gz_configure_project()
 
 #============================================================================
 # Configure the build
 #============================================================================
-ign_configure_build(QUIT_IF_BUILD_ERRORS)
+gz_configure_build(QUIT_IF_BUILD_ERRORS)
 EOF
 
 cmake .
