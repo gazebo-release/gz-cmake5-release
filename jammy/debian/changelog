@@ -1,10 +1,10 @@
-gz-cmake3 (3.0.0~pre1-1~bionic) bionic; urgency=medium
+gz-cmake3 (3.0.0~pre1-1~jammy) jammy; urgency=medium
 
   * gz-cmake3 3.0.0~pre1-1 release
 
  -- Louise Poubel <louise@openrobotics.org>  Tue, 30 Aug 2022 10:01:13 -0700
 
-gz-cmake3 (2.999.999-1~jammy) bionic; urgency=medium
+gz-cmake3 (2.999.999-1~jammy) jammy; urgency=medium
 
   * Stub to be removed after first entry
 
