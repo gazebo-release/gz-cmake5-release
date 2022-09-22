@@ -1,3 +1,9 @@
+gz-cmake3 (3.0.0-1~jammy) jammy; urgency=medium
+
+  * gz-cmake3 3.0.0-1 release
+
+ -- Nate Koenig <nate@openrobotics.org>  Thu, 22 Sep 2022 10:16:30 -0700
+
 gz-cmake3 (3.0.0~pre1-2~jammy) jammy; urgency=medium
 
   * gz-cmake3 3.0.0~pre1-2 release
