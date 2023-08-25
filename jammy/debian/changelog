@@ -1,3 +1,9 @@
+gz-cmake3 (3.4.0-1~jammy) jammy; urgency=medium
+
+  * gz-cmake3 3.4.0-1 release
+
+ -- Addisu Z. Taddese <addisu@openrobotics.org>  Fri, 25 Aug 2023 12:04:21 -0500
+
 gz-cmake3 (3.3.1-1~jammy) jammy; urgency=medium
 
   * gz-cmake3 3.3.1-1 release
