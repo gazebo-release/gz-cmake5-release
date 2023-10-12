@@ -17,10 +17,10 @@ cmake_minimum_required(VERSION 3.5)
 project(test VERSION 1.0.0)
 
 #============================================================================
-# Find gz-cmake3
+# Find gz-cmake4
 #============================================================================
-# If you get an error at this line, you need to install gz-cmake3
-find_package(gz-cmake3 REQUIRED)
+# If you get an error at this line, you need to install gz-cmake4
+find_package(gz-cmake4 REQUIRED)
 
 #============================================================================
 # Set up the project

@@ -12,6 +12,6 @@ override_dh_auto_configure:
 
 override_dh_auto_install:
 	# Remove artifacts installed by testing
-	dh_auto_install
+	dh_auto_install --destdir=debian/tmp
 	find . -type d -name install | xargs rm -rf
 	find . -type d -empty -delete
