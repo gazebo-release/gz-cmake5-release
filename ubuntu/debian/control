@@ -1,4 +1,4 @@
-Source: gz-cmake4
+Source: gz-cmake5
 Maintainer: Jose Luis Rivero <jrivero@osrfoundation.org>
 Section: science
 Priority: optional
@@ -10,7 +10,7 @@ Vcs-Git: https://github.com/gazebosim/gz-cmake.git
 Standards-Version: 4.5.1
 Homepage: http://gazebosim.org/
 
-Package: libgz-cmake4-dev
+Package: libgz-cmake5-dev
 Architecture: any
 Section: libdevel
 Depends: cmake, ${misc:Depends}
