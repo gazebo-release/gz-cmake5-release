@@ -1,0 +1,47 @@
+gz-cmake5 (5.1.1-2~resolute) noble; urgency=medium
+
+  * gz-cmake5 5.1.1-2 release
+
+ -- Steve Peters <scpeters@intrinsic.ai>  Wed, 22 Jul 2026 04:41:30 +0000
+
+gz-cmake5 (5.1.1-1~resolute) noble; urgency=medium
+
+  * gz-cmake5 5.1.1-1 release
+
+ -- Steve Peters <scpeters@intrinsic.ai>  Wed, 13 May 2026 21:19:13 +0000
+
+gz-cmake5 (5.1.1~pre1-1~resolute) noble; urgency=medium
+
+  * gz-cmake5 5.1.1~pre1-1 release
+
+ -- Steve Peters <scpeters@intrinsic.ai>  Wed, 13 May 2026 08:39:41 +0000
+
+gz-cmake5 (5.1.0-1~resolute) noble; urgency=medium
+
+  * gz-cmake5 5.1.0-1 release
+
+ -- Addisu Z. Taddese <addisuzt@intrinsic.ai>  Wed, 08 Apr 2026 19:11:13 +0000
+
+gz-cmake5 (5.0.2-1~resolute) noble; urgency=medium
+
+  * gz-cmake5 5.0.2-1 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Wed, 11 Feb 2026 11:47:01 +0100
+
+gz-cmake5 (5.0.1-1~resolute) noble; urgency=medium
+
+  * gz-cmake5 5.0.1-1 release
+
+ -- Addisu Z. Taddese <addisu@openrobotics.org>  Mon, 26 Jan 2026 23:09:12 +0000
+
+gz-cmake5 (5.0.0-1~resolute) noble; urgency=medium
+
+  * gz-cmake5 5.0.0-1 release
+
+ -- Addisu Z. Taddese <addisu@openrobotics.org>  Fri, 26 Sep 2025 10:50:53 -0500
+
+gz-cmake5 (5.0.0~pre1-1~resolute) noble; urgency=medium
+
+  * gz-cmake5 5.0.0~pre1-1 release
+
+ -- Addisu Z. Taddese <addisu@openrobotics.org>  Thu, 21 Aug 2025 12:45:51 -0500
